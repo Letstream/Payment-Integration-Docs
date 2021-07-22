@@ -2,6 +2,8 @@
 
 These docs refer to Standard Checkout Process of RazorPay using Javascript Integration
 
+Ref: https://razorpay.com/docs/payment-gateway/web-integration/standard/configure-payment-methods/
+
 ### Customise what payment methods are visible to User
 
 The parameters below needs to be passed to the Config during Razorpay initialization i.e.
